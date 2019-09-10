@@ -4,5 +4,5 @@
 
 The first stored program computer was the Manchester Baby
 
-[SSEM](https://www.youtube.com/watch?v=effNf-3IUxI)
+[![Manchester Baby](https://img.youtube.com/vi/effNf-3IUxI/maxresdefault.jpg)](https://youtu.be/effNf-3IUxI)
 
