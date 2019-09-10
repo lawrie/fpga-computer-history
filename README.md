@@ -22,7 +22,7 @@ The EDSAC was recreated on a Blackice I at the Chiphack event in Hedben Bridge i
 
 ## 1950s and 1960s
 
-Nothing interesting happened ion the '50s or '60s.
+Nothing interesting happened in the '50s or '60s.
 
 ## 1970s
 
@@ -32,7 +32,7 @@ Computer video gaming started in the 1970s.
 
 The first successful console was the Atari 2600.
 
-Here it is recreated on a TinyFPGA BX, playing the clasic game, Adeventure:
+Here it is recreated on a TinyFPGA BX, playing the classic game, Adventure:
 
 ![Atari 2600](https://discourse.tinyfpga.com/uploads/default/optimized/1X/8485400779b614afa54cd73240bf407e695ea9db_1_690x388.jpeg)
 
@@ -40,7 +40,7 @@ Here it is recreated on a TinyFPGA BX, playing the clasic game, Adeventure:
 
 Home computers also started in the late '70s.
 
-In a garage in California Steve Wozniak and his froend Steve Jobs created the first home computer, the Apple 1.
+In a garage in California Steve Wozniak and his friend Steve Jobs created the first home computer, the Apple 1.
 
 Here it is running on the Blackice II
 
@@ -52,11 +52,21 @@ Here it is running on the Blackice II
 
 After the video game crash of 1982 in the USA, the Japanese became top nation for video consoles, and the first really successful one was the Nintendo Entertainment System.
 
-Here is is running on an iCEBreaker up5k board:
+Here is is running on an iCEBreaker up5k board.
+
+Click on the picture to run the video.
 
 [![NES](https://img.youtube.com/vi/vGUWMFvhPK4/maxresdefault.jpg)](https://youtu.be/vGUWMFvhPK4)
 
-### Acord Atom
+### Gameboy
+
+Nintendo also created the handheld computer game market.
+
+Here is the Gameboy running on a Blackice Mx:
+
+![Gameboy](https://forum.mystorm.uk/uploads/default/optimized/1X/4f73c876fca2db08aa52ee44c2c81a9ed7149950_1_393x500.jpg)
+
+### Acorn Atom
 
 In the UK the Acorn Atom was created.
 
@@ -81,10 +91,3 @@ Here it is running on a Blackice I:
 ## 1990s
 
 Computer history came to an end in the 1990s.
-
-
-
-
-
-
-
