@@ -50,7 +50,7 @@ Here it is running on the Blackice II
 
 ### NES
 
-After the video game crash of 1982 in the USA, the Japanese became top nation for video consoles, and the first really successful one was the Nintendo Entertainment System.
+After the [video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983) in the USA, the Japanese became top nation for video game consoles, and the first really successful one was the Nintendo Entertainment System.
 
 Here is is running on an iCEBreaker up5k board.
 
