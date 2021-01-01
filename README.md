@@ -66,7 +66,7 @@ Here it is running on the Blackice II
 
 ### Apple ][
 
-## TRS 80 Model 1
+### TRS 80 Model 1
 
 ![TRS 80](https://github.com/lawrie/lawrie.github.io/blob/master/images/trs80.jpg)
 
@@ -114,7 +114,7 @@ It morphed into the BBC Micro:
 
 ### MSX
 
-1{MSX](https://github.com/lawrie/lawrie.github.io/blob/master/images/msx.jpg)
+![MSX](https://github.com/lawrie/lawrie.github.io/blob/master/images/msx.jpg)
 
 ### IBM PC
 
